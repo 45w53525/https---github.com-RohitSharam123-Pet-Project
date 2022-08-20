@@ -1,0 +1,191 @@
+
+
+.body{
+    background: url(img/b.jpg);
+    background-size: cover;
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+    opacity:1;
+}
+
+.heading{
+width:80% ;
+margin-left: auto;
+margin-right: auto;
+background-color: brown;
+
+}
+
+.menu  {
+
+float: right;
+width: 40%;
+
+}
+
+.h1{
+float: left;
+width:40% ;
+
+}
+
+
+.heading::after{
+    content:"" ;
+    display: table;
+    clear: both;
+}
+
+
+.li a {
+
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 5px;
+    font-size: large;
+    font-weight: bold;
+    
+
+}
+.menu li {
+
+    display: inline;
+}
+
+li {
+    margin-top: 30px;
+    padding-right: 5px;
+}
+
+nav {
+    margin-top: 29px;
+} 
+
+a:hover{
+
+color: red;
+
+}
+
+#form {
+
+    width:80% ;
+    margin-left: auto;
+    margin-right: auto;
+   margin-top: 100px;
+    
+}
+
+#First_name {
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+
+#Last_name {
+    margin-left: 6px;
+    margin-bottom: 20px;
+}
+.A{
+margin-left: 10px;
+}
+
+.H{
+
+    margin-left: 10px;
+}
+
+.W{
+    margin-left: 10px;
+
+}
+
+.btn {
+
+    margin-top: 20px;
+}
+
+#Output {
+margin-left: 500px;
+
+
+}
+p{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: x-large;
+}
+
+
+#name{
+    font-family: 'Pacifico', cursive;
+    font-size: x-large;
+}
+h3{
+    color: red;
+    font-family: 'Pacifico', cursive; 
+}
+
+
+
+
+h3{
+    color: red;
+    font-family: 'Pacifico', cursive;
+}
+
+h2{
+    color: white;
+    font-family: 'Pacifico', cursive;
+
+}
+
+
+h1{
+    color:white;
+    font-family: 'Pacifico', cursive; 
+}
+
+#head{
+    color: white;
+    font-family: 'Pacifico', cursive;
+
+}
+
+#Fname{
+    color: white;
+    font-family: 'Pacifico', cursive;
+
+
+}
+
+#Lname{
+    color: white;
+    font-family: 'Pacifico', cursive;
+
+}
+
+#HC{
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+
+#user_Age{
+ 
+    background-color: black;
+    color: white;
+}
+.op{
+    color: white;
+    font-family: 'Pacifico', cursive; 
+}
+
+#Name , #LName{
+    color: white;
+    font-family: 'Pacifico', cursive; 
+    font-size: x-large;
+}
+
